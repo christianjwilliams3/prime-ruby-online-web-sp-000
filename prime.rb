@@ -2,7 +2,7 @@
 def prime?(nums)
   if nums % 2 
     return true 
-  else
+  else nums do |i|
     false 
   end 
 end
